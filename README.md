@@ -2,7 +2,7 @@
 
 ## Article:
 
-Ciprian-Octavian Truică, Elena-Simona Apostol. *Distributed Automatic Domain-Specific Multi-Word Expression Recognition using Spark Ecosys*. Arxiv, 2023. Link: [https://arxiv.org/abs/2302.12190](https://arxiv.org/abs/2302.12190) 
+Ciprian-Octavian Truică, Elena-Simona Apostol. *Distributed Automatic Domain-Specific Multi-Word Expression Recognition using Spark Ecosys*. Arxiv, 2023. Link: [https://arxiv.org/abs/TBA](https://arxiv.org/abs/TBA) 
 
 ## Prerequisites
 
